@@ -43,7 +43,7 @@ Các đường đồ thị xanh dương, xanh lục và đỏ biểu hiện cho 
 
 Bằng sự hiểu biết nguyên lý màu sắc, thị giác và khả năng áp dụng công nghệ thị giác máy tính bạn có thể làm chiếc kính cho người mù màu có khả năng kết nối IoT và thị giác máy tính.
 
-[Đo độ mù màu - Ishihara Color Test](https://www.colour-blindness.com/colour-blindness-tests/ishihara-colour-test-plates/): Đọc số trên các tấm bảng để xác định mức độ mù màu
+[Đo độ mù màu - Ishihara Color Test](https://www.colour-blindness.com/colour-blindness-tests/ishihara-colour-test-plates/): Xác định mức độ mù màu
 # DIY Glasses for people with disability
 Prepare:
 + Machine Vision Camera: [OpenMV Cam](https://www.kickstarter.com/projects/1798207217/openmv-cam-h7-machine-vision-w-micropython) 

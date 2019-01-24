@@ -156,14 +156,14 @@ These are some of the commonly used Communication protocols
 
 * [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer)
 * [Open Sound Control](http://www.opensoundcontrol.org/)
- 
-
 ## Hardware
 This section is separated into different sections based on the type of technology. 
 
 ### EEG
 [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) is the most commonly used form of Neurotechnology. There are many options out there meaning that you can easily find a device that matches your needs and price.
-
+### Neuroscience model
+### Neuroscience trend
+* [Neural prosthetic](https://en.wikipedia.org/wiki/Neuroprosthetics): Là công nghệ thần kinh giả hay còn gọi là cấy chip não thúc đẩy năng lực của con người, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904116/
 #### Consumer and DIY Devices
 * [OpenBCI](http://openbci.com)
 * [Emotiv EPOC](https://emotiv.com/epoc.php) & [Insight](https://emotiv.com/insight.php)

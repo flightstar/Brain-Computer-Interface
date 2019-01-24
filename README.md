@@ -165,7 +165,9 @@ This section is separated into different sections based on the type of technolog
 ### Neuroscience trend
 * [Neural prosthetic](https://en.wikipedia.org/wiki/Neuroprosthetics): Là công nghệ thần kinh giả hay còn gọi là cấy chip não thúc đẩy năng lực của con người, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4904116/
 * [Neural Computation](https://en.wikipedia.org/wiki/Neural_computation)
-* Microfluidic for Neural Imaging: Kênh dẫn vi lưu dùng trong phân tích hành vi, hình ảnh kính hiển vi, hình ảnh tế bào thần kinh của vi khuẩn [Caenorhabditis Elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) và chuyển động của các hóa chất. Tham khảo thiết kế để nghiên cứu https://www.gaudi.ch/OpenDrop/
+* Microfluidic for Neural Imaging: Kênh dẫn vi lưu dùng trong phân tích hành vi, hình ảnh kính hiển vi, hình ảnh tế bào thần kinh của vi khuẩn [Caenorhabditis Elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) và chuyển động của các hóa chất. 
+  
+  Có thể tham khảo thiết kế để nghiên cứu https://www.gaudi.ch/OpenDrop/
 * Nanofluidic là nghiên cứu về hành vi, thao tác và kiểm soát chất lỏng được giới hạn trong các cấu trúc có kích thước đặc trưng nanomet.
 * Microfluidic Automation in BCI
 * Microfluidics Software in BCI
